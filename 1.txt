@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 tes t
+=======
+what are you doing?
+>>>>>>> afa78d08b92e7e46598d711613f87d3dfd462a28
